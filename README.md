@@ -1,0 +1,1 @@
+Imbalace Data là một hiện tượng phổ biến trong các bài toán Machine Learning. Trong phần này, chúng tôi sử dụng giải thuật SMOTE và random undersampling để xử lý hiện tượng này.
